@@ -6,7 +6,7 @@ Simple Rust command to delete every resource group in a subscription
 
 ## Install
 
-```cargo install https://github.com/JMans15/az-nuke```
+```cargo install --git https://github.com/JMans15/az-nuke```
 
 ## Usage
 
